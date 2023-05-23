@@ -1,6 +1,4 @@
 ﻿
-using IntelliJ.Lang.Annotations;
-
 namespace MonkeyFinder.ViewModel;
 
 //[INotifyPropertyChanged]
